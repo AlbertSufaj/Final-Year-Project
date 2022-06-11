@@ -7,4 +7,4 @@ There are three different approaches to the vertex cover problem yielding "good 
 - Heuristic approach
 - Approximation approach
 - Alom's approach
-- BActracking approach (in development)
+- Bactracking approach (in development)
